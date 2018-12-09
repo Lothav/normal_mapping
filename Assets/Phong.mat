@@ -75,7 +75,7 @@ Material:
     - _Parallax: 0.02
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
-    - _SpecularReflection: 1
+    - _SpecularReflection: 0.7
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
